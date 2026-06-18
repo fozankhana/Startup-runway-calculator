@@ -211,8 +211,3 @@ Based on detected VRAM, the app recommends the most capable model that fits in G
 - Local AI mode runs **100% on your device** — no data leaves your machine
 - No tracking, no analytics, no backend
 
----
-
-## License
-
-No license — all rights reserved.
